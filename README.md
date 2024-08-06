@@ -118,6 +118,19 @@ consul kv get -detailed test/test1/test2/key
 
 
 
+$ consul keygen
+pUqJrVyVRj5jsiYEkM/tFQYfWyJIv4s3XkvDwy7Cu5s=
+
+
+
+
+encrypt = "pUqJrVyVRj5jsiYEkM/tFQYfWyJIv4s3XkvDwy7Cu5s="
+encrypt_verify_incoming = true
+encrypt_verify_outgoing = true
+
+
+
+
 
 
 
